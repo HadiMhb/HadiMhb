@@ -32,6 +32,5 @@ Currently working at **Hamta**, where I lead the design and development of key s
 
 ## 🎯 Current Goals
 
-- 🔍 Improve system design and architecture skills  
-- 🌍 Prepare for **remote international backend roles** in the next 1–2 years  
+- 🔍 Improve system design and architecture skills   
 - 🚀 Build a strong open-source GitHub portfolio
