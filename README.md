@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Hadi
 
 I'm a **Backend Developer** based in **Iran**, with over 7 years of experience building automation systems and business applications using the **.NET ecosystem**.  
-Currently working at **Hamta**, where I lead the design and development of key subsystems in enterprise-level software.
-
 ---
 
 ## 💼 What I Do
