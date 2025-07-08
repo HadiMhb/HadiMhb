@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hadi
 
-<!--
-**HadiMhb/HadiMhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** based in **Iran**, with over 7 years of experience building automation systems and business applications using the **.NET ecosystem**.  
+Currently working at **Hamta**, where I lead the design and development of key subsystems in enterprise-level software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+
+- 💡 **System Analysis & Design**  
+  Design clean, scalable, and maintainable backend architectures
+
+- 🔧 **.NET & C# Development**  
+  Building REST APIs with ASP.NET Core, Entity Framework Core, LINQ, and Dapper
+
+- 🧠 **Complex Business Logic**  
+  Translating real-world processes into efficient backend workflows
+
+- ✅ **Clean Code & Best Practices**  
+  Following SOLID principles, exception handling, unit testing, and dependency injection
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** C#, T-SQL, JavaScript  
+- **Frameworks:** .NET Core, ASP.NET, Entity Framework Core  
+- **Tools:** Git, GitHub, Swagger, xUnit, Docker  
+- **Frontend (basic):** Angular, Bootstrap, jQuery
+
+---
+
+## 🎯 Current Goals
+
+- 🔍 Improve system design and architecture skills  
+- 🌍 Prepare for **remote international backend roles** in the next 1–2 years  
+- 🚀 Build a strong open-source GitHub portfolio
